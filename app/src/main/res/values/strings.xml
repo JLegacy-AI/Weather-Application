@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string-array name="weather_info_karachi">
+        <item>Karachi</item>
+        <item>32°C</item>
+        <item>70%</item>
+        <item>Sunny</item>
+    </string-array>
+    <string-array name="weather_info_lahore">
+        <item>Lahore</item>
+        <item>30°C</item>
+        <item>55%</item>
+        <item>Cloudy</item>
+    </string-array>
+    <string-array name="weather_info_islamabad">
+        <item>Islamabad</item>
+        <item>28°C</item>
+        <item>60%</item>
+        <item>Rainy</item>
+    </string-array>
+    <string-array name="weather_info_quetta">
+        <item>Quetta</item>
+        <item>25°C</item>
+        <item>40%</item>
+        <item>Snow</item>
+    </string-array>
+    <string-array name="weather_info_peshawar">
+        <item>Peshawar</item>
+        <item>31°C</item>
+        <item>50%</item>
+        <item>Sunny</item>
+    </string-array>
+    <string-array name="weather_info_multan">
+        <item>Multan</item>
+        <item>33°C</item>
+        <item>45%</item>
+        <item>Hot</item>
+    </string-array>
+    <string-array name="weather_info_faisalabad">
+        <item>Faisalabad</item>
+        <item>29°C</item>
+        <item>65%</item>
+        <item>Cloudy</item>
+    </string-array>
+    <string-array name="weather_info_sialkot">
+        <item>Sialkot</item>
+        <item>27°C</item>
+        <item>70%</item>
+        <item>Rainy</item>
+    </string-array>
+    <string-array name="weather_info_gujranwala">
+        <item>Gujranwala</item>
+        <item>31°C</item>
+        <item>60%</item>
+        <item>Cloudy</item>
+    </string-array>
+    <string-array name="weather_info_hyderabad">
+        <item>Hyderabad</item>
+        <item>34°C</item>
+        <item>50%</item>
+        <item>Sunny</item>
+    </string-array>
+</resources>
